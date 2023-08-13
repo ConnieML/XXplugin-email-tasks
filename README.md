@@ -1,4 +1,4 @@
-# Simple Mail Receipt
+# plugin-email-tasks // mail parser ...
 
 *This simple server receives mail, parses it and creates a task in Twilio Flex*
 
