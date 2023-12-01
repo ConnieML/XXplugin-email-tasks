@@ -1,3 +1,7 @@
+# Current Status
+
+This repository has been archived due to no longer having relevant use in the current state of Connie.
+
 # plugin-email-tasks // mail parser ...
 
 *This simple server receives mail, parses it and creates a task in Twilio Flex*
